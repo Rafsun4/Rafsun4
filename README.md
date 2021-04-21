@@ -24,7 +24,7 @@ A Skilled front-end Developer 🚀 from Bangladesh. Always working on some proje
 <br/>
 Stacks I have worked with : MERN , React+Firebase.
 <br/>  
-Things I am currently experimenting with : gatsby , next.js , typescript, ...
+Things I am currently experimenting with : next.js , typescript, ...
 <br/>
 Want to become a full-time employee 💸 and an Open Source Contributor ❤️.
 </p>
