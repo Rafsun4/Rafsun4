@@ -1,4 +1,7 @@
-### Hi there 👋, I'm [Rafsun](https://github.com/Rafsun4) 👨‍💻
+
+<p align="center">
+    # Hi there 👋, You can call me [Rafsun](https://github.com/Rafsun4) 👨‍💻
+</p>
 
 <br/>
 
@@ -30,16 +33,19 @@ Want to become a full-time employee 💸 and an Open Source Contributor ❤️.
 </p>
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+  
   
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working on my unfinished projects!!.
-- 🌱 I’m currently learning Unit-Testing and TypeScript.
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(I'll find it after googling it 😜😌)
-- 🎿 Hobbies other than coding : Reading blogs or history , Own research , Playing games, listening To songs 10 hrs/day.
+- 🌱 I’m currently learning TypeScript and Unit Testing.
+- 💬 Ask me about anything related to JS, React. You can just google too.
+- 🎿 Hobbies other than coding : Reading blogs , Own research , Playing outdoor games.
 - 📫 How to reach me: saifrafsun@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/18SbaYIQIOHBytgAB3MsLocVzMKlT6zy5/view?usp=sharing)
+
+___
 
 ### 🛠️ Languages and Tools:
 
