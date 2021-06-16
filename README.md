@@ -27,22 +27,22 @@ A Skilled front-end Developer 🚀 from Bangladesh. Always working on some proje
 <br/>
 Stacks I have worked with : MERN , React+Firebase.
 <br/>  
-Things I am currently experimenting with : next.js , typescript, ...
+Things I am currently experimenting with : next.js and more ...
 <br/>
 Want to become a full-time employee 💸 and an Open Source Contributor ❤️.
 </p>
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
+  <img align="right" alt="GIF" src="https://gph.is/g/ajxG084" />
   
   
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working on my unfinished projects!!.
-- 🌱 I’m currently learning TypeScript and Unit Testing.
-- 💬 Ask me about anything related to JS, React. You can just google too.
+- 🌱 I’m currently exploring UI/UX.
+- 💬 Ask me about anything related to JS, React or you can just google too.
 - 🎿 Hobbies other than coding : Reading blogs , Own research , Playing outdoor games.
-- 📫 How to reach me: saifrafsun@gmail.com
+- 📫 Let's have a conversation: saifrafsun@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/18SbaYIQIOHBytgAB3MsLocVzMKlT6zy5/view?usp=sharing)
 
 ___
