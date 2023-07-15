@@ -23,7 +23,7 @@
 <br/>
 
 <p>
-A Skilled front-end Developer 🚀 from Bangladesh. Always working on some project or learning something new!
+Front-end Developer 🚀 from Bangladesh. Always working on some project or learning something new!
 <br/>
 Stacks I have worked with : MERN , React+Firebase.
 <br/>  
@@ -57,7 +57,6 @@ ___
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
