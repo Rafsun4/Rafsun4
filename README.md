@@ -33,7 +33,7 @@ Want to become a full-time employee 💸 and an Open Source Contributor ❤️.
 </p>
 
 
-  <img align="right" alt="GIF" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
+  <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4780y1ci8ldra207n4r7den8zr4nt0acx2x9unw118&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
   
   
 ### ✨ Quick Facts
