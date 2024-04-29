@@ -23,7 +23,7 @@
 <br/>
 
 <p>
-Front-end Developer 🚀 from Bangladesh. Always working on some project or learning something new!
+Front-end Developer & Electronic Engineering student 🚀 from Bangladesh currently living in Germany. Always working on some project or learning something new!
 <br/>
 Stacks I have worked with : MERN , React+Firebase.
 <br/>  
@@ -43,7 +43,6 @@ Want to become a full-time employee 💸 and an Open Source Contributor ❤️.
 - 💬 Ask me about anything related to JS, React or you can just google too.
 - 🎿 Hobbies other than coding : Reading blogs , Own research , Playing outdoor games.
 - 📫 Let's have a conversation: saifrafsun@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/18SbaYIQIOHBytgAB3MsLocVzMKlT6zy5/view?usp=sharing)
 
 ___
 
