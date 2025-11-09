@@ -41,7 +41,7 @@ Currently looking for collaboration opportunities ❤️.
 - 👨🏽‍💻 I’m currently working on my unfinished projects!!.
 - 🌱 I’m currently exploring typescript.
 - 💬 Ask me about anything related to JS, React or you can just google too.
-- 🎿 Hobbies other than coding : Singing and playing guitar to myself, hanging out friends, exploring new cities, and sometimes to know about everything.
+- 🎿 Hobbies other than coding : Singing and playing guitar to myself, hanging out friends, exploring new cities, and sometimes knowing everything about everything.
 - 📫 Let's have a conversation: saifrafsun@gmail.com
 
 ___
